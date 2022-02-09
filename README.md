@@ -7,3 +7,6 @@ venv-python\Scripts\activate
 # install deps
 pip install -r requirements.txt
 
+# run app
+uvicorn main:app
+
