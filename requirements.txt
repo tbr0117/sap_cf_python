@@ -1,0 +1,4 @@
+cfenv
+requests
+fastapi
+uvicorn

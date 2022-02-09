@@ -1,0 +1,8 @@
+
+---
+applications:
+- memory: 128MB
+  instances: 1
+  services:
+    - destination_service_1
+    - uaa_service_1
